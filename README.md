@@ -13,7 +13,6 @@ A simple photos app that allows users to interact with a photos API to search fo
 - Responsive and user-friendly interface built with React.
 - Consumes a third-party API to fetch pictures data.
 
-## Demo
 
 ## Technologies Used
 

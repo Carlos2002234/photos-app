@@ -1,6 +1,6 @@
 # Photos APP
 
-A simple photos app that allows users to interact with a photos API to search for and display information about photos.
+A simple photo app that enables users to interact with a photo API, allowing them to search for and display detailed information about photos.
 
 ![image](https://github.com/user-attachments/assets/0e469b64-abf1-494d-81a6-bf3012eb27ca)
 

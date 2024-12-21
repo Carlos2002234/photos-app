@@ -1,4 +1,4 @@
-# Movie App
+# Photos APP
 
 A simple photos app that allows users to interact with a photos API to search for and display information about photos.
 

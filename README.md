@@ -32,7 +32,7 @@ A simple photos app that allows users to interact with a photos API to search fo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Carlos2002234/movies-app.git
+   git clone https://github.com/Carlos2002234/photos-app.git
    cd photos-app
    npm i
    npm run start 
